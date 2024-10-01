@@ -1,0 +1,10 @@
+<Module>
+<ModulePrefs title="Movie"/>
+<Content type="html">
+<![CDATA[
+
+  <iframe width="1000" height="1000" src="https://www.youtube-nocookie.com/embed/ACtbQOXZUK8?si=QyTqFdpOzfng-ck6&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+   ]]>
+</Content>
+</Module>
